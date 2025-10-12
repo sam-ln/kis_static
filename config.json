@@ -1,5 +1,5 @@
 {
   "DebugMessage": "10.000 New Songs in the Library!!",
-  "StagePromo_ShowStoreButtons": true,
-  "VideoSystem_UseYTHelper": true
+  "StagePromo_ShowStoreButtons": false,
+  "VideoSystem_UseYTHelper": false
 }
