@@ -1,5 +1,5 @@
 {
   "DebugMessage": "New Update with YouTube Fix!",
   "StagePromo_ShowStoreButtons": true,
-  "VideoSystem_UseYTHelper": false
+  "VideoSystem_UseYTHelper": true
 }
