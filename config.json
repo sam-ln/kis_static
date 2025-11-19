@@ -1,5 +1,5 @@
 {
-  "DebugMessage": "Could I interest you in some ABBA, perhaps?",
-  "StagePromo_ShowStoreButtons": true,
+  "DebugMessage": "Remember to warm up your vocal cords!",
+  "StagePromo_ShowStoreButtons": false,
   "VideoSystem_UseYTHelper": true
 }
