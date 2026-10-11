@@ -1,5 +1,5 @@
 {
-  "DebugMessage": "YouTube is being difficult right now. We have a workaround now, but you cannot play custom URLs which are geoblocked in ANY region. Check Discord announcements for more info!",
+  "DebugMessage": "Love to see you here!",
   "StagePromo_ShowStoreButtons": false,
-  "VideoSystem_UseYTHelper": true
+  "VideoSystem_UseYTHelper": false
 }
